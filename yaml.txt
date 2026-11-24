@@ -1,0 +1,4 @@
+type: custom:reseau-maison-card
+grid_options:
+  columns: full
+  rows: auto
